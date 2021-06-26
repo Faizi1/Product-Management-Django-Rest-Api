@@ -11,6 +11,7 @@ The features supported provided by this service are listed below
 3. User Authentication and Authorization.
 
 # EndPoints:
+
 localhost:8000/ - To Access API Documentation/Swagger
 /user/signup
 /user/login   -- To Access Token
