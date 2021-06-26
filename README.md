@@ -12,13 +12,13 @@ The features supported provided by this service are listed below
 
 # EndPoints:
 
-localhost:8000/ - To Access API Documentation/Swagger
-/user/signup
-/user/login   -- To Access Token
-/product
-/category
-/apperalsize
-/color
+ localhost:8000/ - To Access API Documentation/Swagger
+ /user/signup
+ /user/login   -- To Access Token
+ /product
+ /category
+ /apperalsize
+ /color
 
 
 # Pre-requisites
