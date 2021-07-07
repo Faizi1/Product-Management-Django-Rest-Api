@@ -31,7 +31,7 @@ Make sure to have installed the following pre-requisites for a development setup
 4. Create a database by the name `product_db` if it does not exist using sql command
 
 ```bash
-CREATE DATABASE IF NOT EXISTS vfq_assets encoding='utf8';
+CREATE DATABASE IF NOT EXISTS product_db encoding='utf8';
 ```
 
 ```bash
